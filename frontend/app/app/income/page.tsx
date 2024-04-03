@@ -49,7 +49,7 @@ const IncomePage = () => {
                     </div>
                 </div>
             </div>
-            <div className='px-4 sm:px-8 pb-1.5  h-[75%] flex w-full gap-5'>
+            <div className='px-4 sm:px-8 pb-1.5  h-[75%] flex w-full gap-5'> 
                 <div className='basis-[30%]'>
                     <form className='space-y-4'>
                         <div className='space-y-1.5'>
